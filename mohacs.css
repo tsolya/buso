@@ -1,0 +1,80 @@
+body{
+  background-size: 70px 70px;
+  background-repeat: repeat-y;
+  background-position: right top;
+  padding: 15px 95px 15px 15px;
+  background-color: #720000;
+  color:white;
+  
+}
+
+.cimkep{
+  float:right;  
+  
+  border:solid 3px white;
+}
+
+#erdekesseg{
+  width:300px;
+  height: 300px;
+  float:right;
+  margin: 0px 0px 20px 15px;
+  background-color: #ffffcc;
+  -ms-transform: rotate(5deg);
+  -webkit-transform: rotate(5deg);
+  transform: rotate(5deg)
+  
+}
+
+h1{
+  font-size:30pt;
+  color:#720000;
+
+}
+
+.jobbra{
+  text-align: right;
+  float:right;
+  border-style:dashed;
+  margin:15px;
+  width:400px;
+  height: 350px;
+}
+
+
+.keret{
+  font-size: 90%;
+  padding: 7px;
+  font-weight: normal;
+  color:#720000;
+}
+
+li{
+  font-weight:bold;
+  list-style-image: url(jel.png);
+  color:#720000
+}
+a{
+  color :white;
+}
+.fejlec{
+  background-color: white;
+  text-align: center;
+  border:4px #720000 dashed;
+
+}
+h3{
+  text-decoration: underline;
+}
+.lablec{
+  background-color: white;
+
+  border:4px black dashed;
+
+}
+.ize{
+  color: #720000;
+  font-weight:bold;
+  text-decoration: underline;
+  padding-left:40px;
+}
